@@ -3,7 +3,7 @@
 
 ##EASY
 
-       Build Array from Permutation
+-      Build Array from Permutation
 - [x]  Concatenation of Array
 - [x]  Running Sum of 1d Array
 - [x]  Richest Customer Wealth
