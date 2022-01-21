@@ -30,7 +30,7 @@ EASY
 - []  Reshape the Matrix
 - []  Plus One
 - []  Remove Duplicates from Sorted Array
-- []  Minimum Cost to Move Chips to The Same Position
+- []✅  Minimum Cost to Move Chips to The Same Position
 
 Medium
 
