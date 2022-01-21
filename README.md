@@ -3,7 +3,7 @@
 
 EASY
 
- []  Build Array from Permutation
+ [ ]   Build Array from Permutation
 - [x]  Concatenation of Array
 - [x]  Running Sum of 1d Array
 - [x]  Richest Customer Wealth
@@ -22,15 +22,15 @@ EASY
 - [x]  Transpose Matrix
 - [x]  Add to Array-Form of Integer
 - [x]  Maximum Population Year
-- [x]  Determine Whether Matrix Can Be Obtained By Rotation
+- ✅  Determine Whether Matrix Can Be Obtained By Rotation
 - []  Two Sum
 - []  Find N Unique Integers Sum up to Zero
-- [x]  Lucky Number In a Matrix
+- ✅  Lucky Number In a Matrix
 - []  Maximum Subarray
 - []  Reshape the Matrix
 - []  Plus One
 - []  Remove Duplicates from Sorted Array
-- []✅  Minimum Cost to Move Chips to The Same Position
+- []  Minimum Cost to Move Chips to The Same Position
 
 Medium
 
