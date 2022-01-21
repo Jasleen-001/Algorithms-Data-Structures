@@ -22,10 +22,10 @@
 - [x]  Transpose Matrix
 - [x]  Add to Array-Form of Integer
 - [x]  Maximum Population Year
-- ✅  Determine Whether Matrix Can Be Obtained By Rotation
+- [x]  Determine Whether Matrix Can Be Obtained By Rotation
 - []  Two Sum
 - []  Find N Unique Integers Sum up to Zero
-- ✅  Lucky Number In a Matrix
+- [x]  Lucky Number In a Matrix
 - []  Maximum Subarray
 - []  Reshape the Matrix
 - []  Plus One
