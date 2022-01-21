@@ -1,9 +1,9 @@
 # Algorithms-Data-Structures
         ARRAYS
 
-EASY
+##EASY
 
- [ ]   Build Array from Permutation
+       Build Array from Permutation
 - [x]  Concatenation of Array
 - [x]  Running Sum of 1d Array
 - [x]  Richest Customer Wealth
@@ -32,7 +32,7 @@ EASY
 - []  Remove Duplicates from Sorted Array
 - []  Minimum Cost to Move Chips to The Same Position
 
-Medium
+##Medium
 
 - [x]    Spiral Matrix
 - [x]    Spiral Matrix II
@@ -45,8 +45,8 @@ Medium
 - [x]    Sort Colors
 - [x]    House Robber
 
-Hard
+##Hard
 
-- [x]    Max Value of Equation
-- [x]    First Missing Positive
-- [x]    Good Array
+    Max Value of Equation
+    First Missing Positive
+    Good Array
