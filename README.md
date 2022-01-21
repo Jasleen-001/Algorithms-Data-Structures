@@ -5,8 +5,8 @@
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 
-  [x]  Build Array from Permutation
-  [x]Concatenation of Array
+- [x]  Build Array from Permutation
+- [x]Concatenation of Array
     Running Sum of 1d Array
     Richest Customer Wealth
     Shuffle the Array
