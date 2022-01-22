@@ -34,16 +34,16 @@
 
 ## Medium
 
-- [x]    Spiral Matrix
-- [x]    Spiral Matrix II
-- [x]    Spiral Matrix III
-- [x]    Set Matrix Zeroes
-- [x]    Product of Array Except Self
-- [x]    Find First and Last Position of Element in Sorted Array
-- [x]    Jump Game
-- [x]    Rotate Array
-- [x]    Sort Colors
-- [x]    House Robber
+- []    Spiral Matrix
+- []    Spiral Matrix II
+- []    Spiral Matrix III
+- []    Set Matrix Zeroes
+- []    Product of Array Except Self
+- []    Find First and Last Position of Element in Sorted Array
+- []    Jump Game
+- []    Rotate Array
+- []    Sort Colors
+- []    House Robber
 
 ## Hard
 
