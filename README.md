@@ -4,7 +4,7 @@
 ## EASY
 
 - [ ]    Build Array from Permutation
-- [x]  Concatenation of Array
+- []  Concatenation of Array
 - [x]  Running Sum of 1d Array
 - [x]  Richest Customer Wealth
 - [x]  Shuffle the Array
@@ -24,13 +24,13 @@
 - [x]  Maximum Population Year
 - [x]  Determine Whether Matrix Can Be Obtained By Rotation
 - []  Two Sum
-- []  Find N Unique Integers Sum up to Zero
+- [x]  Find N Unique Integers Sum up to Zero
 - [x]  Lucky Number In a Matrix
 - []  Maximum Subarray
 - []  Reshape the Matrix
-- []  Plus One
-- []  Remove Duplicates from Sorted Array
-- []  Minimum Cost to Move Chips to The Same Position
+- [x]  Plus One
+- [x]  Remove Duplicates from Sorted Array
+- [x]  Minimum Cost to Move Chips to The Same Position
 
 ## Medium
 
