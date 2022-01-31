@@ -34,19 +34,19 @@
 
 ## Medium
 
-- []    Spiral Matrix
-- []    Spiral Matrix II
-- []    Spiral Matrix III
-- []    Set Matrix Zeroes
-- []    Product of Array Except Self
-- []    Find First and Last Position of Element in Sorted Array
-- []    Jump Game
-- []    Rotate Array
-- []    Sort Colors
-- []    House Robber
+- [ ]    Spiral Matrix
+- [ ]    Spiral Matrix II
+- [ ]    Spiral Matrix III
+- [ ]    Set Matrix Zeroes
+- [ ]    Product of Array Except Self
+- [ ]    Find First and Last Position of Element in Sorted Array
+- [ ]    Jump Game
+- [ ]    Rotate Array
+- [ ]    Sort Colors
+- [ ]    House Robber
 
 ## Hard
 
- - []   Max Value of Equation
- - []   First Missing Positive
- - []   Good Array
+ - [ ]   Max Value of Equation
+ - [ ]   First Missing Positive
+ - [ ]   Good Array
