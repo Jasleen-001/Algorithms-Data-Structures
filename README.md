@@ -34,8 +34,8 @@
 
 ## Medium
 
-- [ ]    Spiral Matrix
-- [ ]    Spiral Matrix II
+- [x]    Spiral Matrix
+- [x]    Spiral Matrix II
 - [ ]    Spiral Matrix III
 - [ ]    Set Matrix Zeroes
 - [ ]    Product of Array Except Self
