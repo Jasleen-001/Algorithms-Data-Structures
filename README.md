@@ -31,6 +31,7 @@
 - [x]  Plus One
 - [x]  Remove Duplicates from Sorted Array
 - [x]  Minimum Cost to Move Chips to The Same Position
+- [x]  Best Time to Buy and Sell Stock
 
 ## Medium
 
