@@ -1,6 +1,6 @@
 ## Easy
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [x] [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [x] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [x] [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
