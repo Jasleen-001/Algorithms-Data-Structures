@@ -29,6 +29,7 @@
 27. [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [x] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 29. [x] [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+30. [x] [Cyclically rotate an array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 
 ### Medium
 1. [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
