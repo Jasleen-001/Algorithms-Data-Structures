@@ -1,7 +1,6 @@
 # Algorithms-Data-Structures
 
 
-
         1. ARRAYS
         
                         -> Implementation Questions(Maths)
@@ -43,16 +42,5 @@
        10. Tries
        11. GRAPHS
         
-        
-        Arrays
-Strings(Character Arrays)
-Linked List
-Stack 
-Queues
-Binary Trees
-Binary Search Trees
-Heaps/Priority Queues
-Hashmap
-Tries
-Graphs
+
 
