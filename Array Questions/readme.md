@@ -43,7 +43,7 @@
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 11. [x] Kth largest and smallest element
-12. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+12. [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
 
 ### Hard
