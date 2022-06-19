@@ -23,7 +23,7 @@
 21. [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [x] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+24. [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 25. [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 26. [x] [Plus One](https://leetcode.com/problems/plus-one/)
 27. [x] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
