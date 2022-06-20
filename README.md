@@ -1,25 +1,24 @@
 # Algorithms-Data-Structures
 
-
-        1. ARRAYS
-        
-                        -> Implementation Questions(Maths)
-                        -> Two Pointers
-                        -> Binary Search
-                        -> Divide and Conquer
-                        -> Matrix
-                        -> Sorting
-                        -> Bit manipulation
-                        -> Sliding Window
-                        -> Prefix and Suffix Sum
-                        -> Rotation and Reversal
-                        -> Important Algorithms
-                        -> Kadane's Algorithm
-                        -> Prime Sieve
-                        -> Manacher’s Algorithm
-                        -> Quick, Merge, Insertion, Selection, Bubble, Counting sort
-                        -> KMP,  Z’s, Rabin Karp
-                        -> Moore’s Voting Algorithm
+  <details>  <summary>  <h1> <img id="array" src="https://img.shields.io/badge/Arrays-17-brightgreen?style=for-the-badge"> </h1>  </summary>
+                        -> Implementation Questions(Maths) <br>
+                        -> Two Pointers <br>
+                        -> Binary Search <br>
+                        -> Divide and Conquer <br>
+                        -> Matrix <br>
+                        -> Sorting <br>
+                        -> Bit manipulation <br>
+                        -> Sliding Window <br>
+                        -> Prefix and Suffix Sum <br>
+                        -> Rotation and Reversal <br>
+                        -> Important Algorithms <br>
+                        -> Kadane's Algorithm <br>
+                        -> Prime Sieve <br>
+                        -> Manacher’s Algorithm <br>
+                        -> Quick, Merge, Insertion, Selection, Bubble, Counting sort <br>
+                        -> KMP,  Z’s, Rabin Karp <br>
+                        -> Moore’s Voting Algorithm <br>
+    </details>
 
         2. STRINGS
         3. SORT
