@@ -9,7 +9,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
-- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
+- [x] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
@@ -27,7 +27,7 @@
 - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
-- [x] [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
