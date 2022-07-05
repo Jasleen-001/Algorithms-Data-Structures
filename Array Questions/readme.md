@@ -45,6 +45,7 @@
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 11. [x] Kth largest and smallest element
 12. [x] [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
+13. [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 
 ### Hard
