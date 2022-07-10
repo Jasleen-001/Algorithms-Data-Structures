@@ -21,7 +21,7 @@
 18. [x] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 19. [x] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [x] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
+21. [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [x] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [x] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
