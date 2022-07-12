@@ -1,5 +1,6 @@
 ### Easy
 1. [x] Reverse an Array
+2. [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 2. [x] [Intersection of 2 arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
