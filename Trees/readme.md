@@ -1,3 +1,3 @@
 Trees
 - [x] Inorder Traversal
-- Preorder Traversal
+- [x] Preorder Traversal
