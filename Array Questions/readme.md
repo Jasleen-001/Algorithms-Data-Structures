@@ -32,6 +32,7 @@
 28. [x] [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 29. [x] [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 30. [x] [Cyclically rotate an array](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+31. [x] [Theif trying to escape](https://practice.geeksforgeeks.org/problems/thief-try-to-excape0710/1)
 
 ### Medium
 1. [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -53,3 +54,4 @@
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+4. [x] [Median of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
